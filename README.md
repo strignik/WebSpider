@@ -10,3 +10,5 @@
 1. run the "git clone".
 2. switch to branch "Dev"
 3. open "Web-spider.sln" and run it
+
+Use Debug/Release x86
